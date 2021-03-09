@@ -15,7 +15,7 @@ const CountryDetails = () => {
             setCountry(data[0]);
             //console.log(country);
         });
-    }, []);
+    }, [name]);
 
     const buttonHandle =()=>{
         const url ='/home';
