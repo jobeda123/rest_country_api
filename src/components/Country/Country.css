@@ -1,0 +1,13 @@
+.country{
+    border: 3px solid black;
+    width:300px;
+    margin: 50px;
+    text-align: center;
+    padding: 10px;
+    background-color: #D6ED17FF;
+}
+
+.country img {
+    width:250px;
+    height:200px;
+}
